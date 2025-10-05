@@ -7,7 +7,7 @@
 <a name="english"></a>
 ## English
 
-### Linear Experience Mod for Minecraft 1.20.1
+### Linear Experience Mod for Minecraft
 
 A comprehensive Minecraft Forge mod that completely overhauls the vanilla non-linear experience system, providing multiple configurable experience calculation modes while maintaining full compatibility with all vanilla experience-related features.
 
@@ -40,7 +40,7 @@ A comprehensive Minecraft Forge mod that completely overhauls the vanilla non-li
 
 1. Download the latest release from the releases page
 2. Place the `.jar` file in your Minecraft `mods` folder
-3. Launch Minecraft with Forge 1.20.1
+3. Launch Minecraft with Forge
 
 ---
 
@@ -147,7 +147,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 <a name="中文"></a>
 ## 中文
 
-### Linear Experience - Minecraft 1.20.1 线性经验模组
+### Linear Experience - Minecraft 线性经验模组
 
 一个全面的 Minecraft Forge 模组，彻底改革了原版非线性经验系统，提供多种可配置的经验计算模式，同时保持与原版所有经验相关功能的完全兼容。
 
@@ -180,7 +180,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 1. 从发布页面下载最新版本
 2. 将 `.jar` 文件放入 Minecraft 的 `mods` 文件夹
-3. 使用 Forge 1.20.1 启动 Minecraft
+3. 使用 Forge 启动 Minecraft
 
 ---
 
@@ -299,5 +299,6 @@ A: 在配置文件中设置 `enableXpCalculationModifier = false` 或删除模�
 A: 是的，使用安全的数学表达式解析器，不支持危险操作。
 
 ---
+
 
 *最后更新：2024年*
